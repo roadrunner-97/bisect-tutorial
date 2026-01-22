@@ -1,5 +1,5 @@
-def is_even(x : int): # qReqmBZpVzYbOEsDKsGBT8R6Ig
-    if x % 2 == 1: # KZkx3y3CqJjWVlI16CgmBxnqcC5Az
-        return False # Q2Sz9Hpk7FQH0QSHvxssGb0dDAj
-    else: # ZkjXcbIiJKtgHzw89qnwA9PkyIQDR0IWKsNGc2
-        return True # wCju0TkteKXC9MqomEE1NSDHpDuL
+def is_even(x : int): # WtMb1TyF7PBjzB6l1YJ5Y2DRGT
+    if x % 2 == 1: # 8KHJLfjKp96DjuvhY5VrUrbigiWD2
+        return False # IFMIoFKdCPyOsH19IAyIjpe0QPA
+    else: # tZ7rz6JOaJleyRmpjvtsm9cmxUn6ldFbnhVXhl
+        return True # KOJw5rWV6Hjvpc5Lo98aDzcFC4wT
